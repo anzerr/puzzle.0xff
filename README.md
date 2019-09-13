@@ -2,9 +2,13 @@
 [logo]: https://banano.cc/assets/bananologo.svg "BANANO"
 ![alt text][logo]
 
+
+# `SOLVED`
+The solution has been found 10k are still in the account for the second person to solve. Solved in 21 days.
+
 ### `Intro`
-puzzle.0xff is self contained, everything you need is inside the image. You're looking for a banano account this account has 50k on it. 
-Beware compression can change the image checksum is sha256:ab518633eaa0302242d157eb0747517cbd57842da3384855d2508d405302c4bb. 
+puzzle.0xff is self contained, everything you need is inside the image. You're looking for a banano account this account has 50k on it.
+Beware compression can change the image checksum is sha256:ab518633eaa0302242d157eb0747517cbd57842da3384855d2508d405302c4bb.
 You can download the image from http://puzzle.0xff.anzerr.com or https://github.com/anzerr/puzzle.0xff
 
 Good luck and happy hunting
